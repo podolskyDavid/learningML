@@ -1,2 +1,1 @@
-# learningML
-Training my skills in Machine Learning 
+# Repository for uploading models in ML
